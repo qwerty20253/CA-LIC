@@ -40,10 +40,10 @@ instance segmentation: python mytest_seg.py
 (3) Pretrained Model
 | Quality | Lambda | Link |
 | :--- | :--- | :--- |
-| 1 | 0.001 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F1e-3/model_best.pth.tar) |
-| 2 | 0.0025 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F2.5e-3/model_best.pth.tar) |
-| 3 | 0.005 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F5e-3/model_best.pth.tar) |
-| 4 | 0.01 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F1e-2/model_best.pth.tar) |
+| 1 | 0.001 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F1e-3) |
+| 2 | 0.0025 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F2.5e-3) |
+| 3 | 0.005 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F5e-3) |
+| 4 | 0.01 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F1e-2) |
 
 ## 3 Requirements
 * torch==2.4.1  
