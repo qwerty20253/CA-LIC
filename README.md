@@ -40,10 +40,10 @@ instance segmentation: python mytest_seg.py
 (3) Pretrained Model
 | Quality | Lambda | Link | Extraction Code |
 | :--- | :--- | :--- | :--- |
-| 1 | 0.001 | [link](https://pan.baidu.com/s/12S7jA5CvAZZcmlTLTJ7KIA) | w9q6|
-| 2 | 0.0025 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F2.5e-3) |
-| 3 | 0.005 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F5e-3) |
-| 4 | 0.01 | [link](https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2Fcoding_file%2Fsave_model%2F1e-2) |
+| 1 | 0.001 | [link](https://pan.baidu.com/s/12S7jA5CvAZZcmlTLTJ7KIA) | w9q6 |
+| 2 | 0.0025 | [link](https://pan.baidu.com/s/1GkvOZH7PgG41TlWsKBj_Jg) | 7kth |
+| 3 | 0.005 | [link](https://pan.baidu.com/s/1ws4XF01pwgl0dqbHO_2X7Q) | at7i |
+| 4 | 0.01 | [link](https://pan.baidu.com/s/1W6aOjSgU5id_W5Cnn4VgPQ) | mbq9 |
 
 ## 3 Requirements
 * torch==2.4.1  
