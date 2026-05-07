@@ -23,7 +23,7 @@ Image Compression for Machines (ICM) aims to remove visual redundancies while pr
     <img src="https://github.com/qwerty20253/CA-LIC/blob/main/new_folder/OpenImagesV6.png" alt="OpenImagesV6" width="100%" />
 </div>
 
-(4) The complete bpp and mAP@0.50 results of each image compression method on the VOC2012 dataset
+(4) The complete bpp and mIoU results of each image compression method on the VOC2012 dataset
 <div align="center">
     <img src="https://github.com/qwerty20253/CA-LIC/blob/main/new_folder/VOC2012.png" alt="VOC2012" width="55%" />
 </div>
